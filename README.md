@@ -15,7 +15,6 @@
 - 🌱 Learning **Cloud Computing & System Design**
 - 💻 Passionate about creating **scalable and user-friendly apps**
 - 🚀 Interested in **AI, SaaS & Startup Building**
-- 🎯 Goal: Build a successful **IT Company**
 - ⚡ Fun fact: I love turning ideas into real products
 
 ---
