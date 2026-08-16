@@ -22,7 +22,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+<a href="https://www.linkedin.com/in/sachinkoli-dev/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
